@@ -26,6 +26,14 @@ The work builds on the [MyeVAE framework](https://github.com/JiaGengChang/myevae
 
 *MO-RiskVAE: A Multi-Omics Variational Autoencoder for Survival Risk Modeling in Multiple Myeloma* — Zixuan Chen, **Heng Zhang**, YuPeng Qin, WenPeng Xing, Qiang Wang, Da Wang, Changting Lin, Meng Han. **arXiv preprint, 2026.**
 
+## Selected application — GasAI-Select
+
+[**Code & local demo →**](https://github.com/HZHANG086/GasAI-Select)
+
+An interactive instrument-selection prototype built with Python and Streamlit. I implemented natural-language requirement parsing, Chinese budget matching, explainable candidate ranking, and the application interface. The public edition runs offline with 12 fictional product records and includes six passing retrieval, data-hygiene, and UI tests.
+
+**Stack:** Python · Streamlit · rule-based retrieval · synthetic data. No API key or external model service is required.
+
 ## Research interests
 
 | Area | Focus |
@@ -41,3 +49,4 @@ The work builds on the [MyeVAE framework](https://github.com/JiaGengChang/myevae
 - **Tools:** Python, PyTorch, scikit-learn, NumPy, pandas, Linux, Git, Java, and C/C++.
 
 For research details, project context, and my CV, visit my [academic homepage](https://hzhang086.github.io/).
+
