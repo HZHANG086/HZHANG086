@@ -26,6 +26,16 @@ The work builds on the [MyeVAE framework](https://github.com/JiaGengChang/myevae
 
 *MO-RiskVAE: A Multi-Omics Variational Autoencoder for Survival Risk Modeling in Multiple Myeloma* — Zixuan Chen, **Heng Zhang**, YuPeng Qin, WenPeng Xing, Qiang Wang, Da Wang, Changting Lin, Meng Han. **arXiv preprint, 2026.**
 
+## Independently developed platform — Nextruments / GasMind
+
+[**Live platform →**](https://www.nextruments.com/) · [**Platform knowledge base →**](https://github.com/HZHANG086/GasMind-Knowledge-Base)
+
+**I independently designed and developed the entire Nextruments / GasMind agent platform.**
+
+The platform supports gas-detection and industrial instrument selection through natural-language requirements, knowledge-graph retrieval, product comparison, and evidence-backed recommendation explanations.
+
+The published platform knowledge base contains **3,488 nodes and 6,800 relations**, covering instrument instances, measurement targets, detection principles, industry scenarios, and ontology structure.
+
 ## Selected application — GasAI-Select
 
 [**Code & local demo →**](https://github.com/HZHANG086/GasAI-Select)
@@ -49,4 +59,5 @@ An interactive instrument-selection prototype built with Python and Streamlit. I
 - **Tools:** Python, PyTorch, scikit-learn, NumPy, pandas, Linux, Git, Java, and C/C++.
 
 For research details, project context, and my CV, visit my [academic homepage](https://hzhang086.github.io/).
+
 
